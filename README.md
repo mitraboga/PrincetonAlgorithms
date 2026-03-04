@@ -1,5 +1,5 @@
 <h1 align="center">Princeton Algorithms, Part II</h1>
-<h3 align="center">Advanced Graph Algorithms + String Processing & Compression (Java DSA Portfolio)</h3>
+<h3 align="center">Advanced Graph Algorithms + String Processing & Compression (DSA Portfolio)</h3>
 
 <p align="center">
   <img src="assets/Princeton_AlgorithmsII_Header.jpeg" alt="Princeton Algorithms, Part II" width="100%" />
