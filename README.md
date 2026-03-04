@@ -1,9 +1,8 @@
-<h1 align="center">Princeton Algorithms, Part I</h1>
-<h3 align="center">Object-Oriented Java + Core Data Structures & Algorithms (DSA Portfolio)</h3>
-
 <p align="center">
   <img src="assets/Princeton_AlgorithmsI_Header.jpeg" alt="Princeton Algorithms, Part I" width="100%" />
 </p>
+
+<h3 align="center">Object-Oriented Java + Core Data Structures & Algorithms (DSA Portfolio)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
