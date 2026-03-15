@@ -14,7 +14,7 @@
 
 ## Object-Oriented Programming in Java: Professor Testimonial
 <p align="center">
-  <img src="assets/Recommendation Letter - OOPJ - Sitha Ramulu.pdf" alt="OOPJ Professor Testimonial" width="100%" />
+  <img src="assets/OOPJ Professor Testimonial.jpeg" alt="OOPJ Professor Testimonial" width="100%" />
 </p>
 
 ---
